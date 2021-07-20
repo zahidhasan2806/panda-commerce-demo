@@ -11,6 +11,9 @@
     font-size: 16px;
     font-weight: 500;
 }
+.categories img{
+    width: 100px;
+}
 .panda-catagory-watch{
     background-image: linear-gradient(to bottom, #FFBD24 0%, #FF9D34 100%);
 }

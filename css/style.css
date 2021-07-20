@@ -1,0 +1,32 @@
+.panda-bg-color{
+    background-color: #FEEAE9;
+}
+.panda-btn-color{
+    width: 168px;
+    height: 52px;
+    background-image: linear-gradient(to bottom, #FF267B 0%, #ff4b92 100%);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+.panda-catagory-watch{
+    background-image: linear-gradient(to bottom, #FFBD24 0%, #FF9D34 100%);
+}
+.panda-catagory-bag {
+    background-image: linear-gradient(to bottom, #FF267B 0%, #ff4b92 100%);
+}
+.panda-catagory-shoe{
+    background-image: linear-gradient(to bottom, #3F18F9 0%, #4276FE 100%);
+
+}
+.btn-dark{
+    width: 168px;
+    height: 52px;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+}
